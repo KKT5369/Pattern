@@ -1,0 +1,15 @@
+D:\Server_Test\Pattern\Pattern\bin\Debug\net7.0\Pattern.exe
+D:\Server_Test\Pattern\Pattern\bin\Debug\net7.0\Pattern.deps.json
+D:\Server_Test\Pattern\Pattern\bin\Debug\net7.0\Pattern.runtimeconfig.json
+D:\Server_Test\Pattern\Pattern\bin\Debug\net7.0\Pattern.dll
+D:\Server_Test\Pattern\Pattern\bin\Debug\net7.0\Pattern.pdb
+D:\Server_Test\Pattern\Pattern\obj\Debug\net7.0\Pattern.csproj.AssemblyReference.cache
+D:\Server_Test\Pattern\Pattern\obj\Debug\net7.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Server_Test\Pattern\Pattern\obj\Debug\net7.0\Pattern.AssemblyInfoInputs.cache
+D:\Server_Test\Pattern\Pattern\obj\Debug\net7.0\Pattern.AssemblyInfo.cs
+D:\Server_Test\Pattern\Pattern\obj\Debug\net7.0\Pattern.csproj.CoreCompileInputs.cache
+D:\Server_Test\Pattern\Pattern\obj\Debug\net7.0\Pattern.dll
+D:\Server_Test\Pattern\Pattern\obj\Debug\net7.0\refint\Pattern.dll
+D:\Server_Test\Pattern\Pattern\obj\Debug\net7.0\Pattern.pdb
+D:\Server_Test\Pattern\Pattern\obj\Debug\net7.0\Pattern.genruntimeconfig.cache
+D:\Server_Test\Pattern\Pattern\obj\Debug\net7.0\ref\Pattern.dll
